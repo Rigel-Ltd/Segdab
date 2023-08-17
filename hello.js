@@ -1,2 +1,2 @@
-console.log("Hello extra")
-const message = "Hello";
+console.log("Hello extraordnaire!")
+const message = "Hello ex";
